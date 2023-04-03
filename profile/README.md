@@ -13,7 +13,7 @@ For more details see the [project webpage](https://fish-tue.github.io).
 
 ## ⭐️ Highlights
 
-No content yet… 🚀
+- [Urgency-aware Routing in Single Origin-destination Itineraries through Artificial Currencies](https://github.com/fish-tue/single-origin-destination-routing)
 
 ## ✨ Contribute
 
