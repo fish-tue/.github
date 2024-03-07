@@ -12,7 +12,7 @@ For more details see the [project webpage](https://fish-tue.github.io).
 ***
 
 ## ⭐️ Highlights
-
+- [Fair Artificial Currency Incentives in Repeated Weighted Congestion Games: Equity vs. Equality](https://github.com/fish-tue/AC-weighted-equity-equality)
 - [Urgency-aware Routing in Single Origin-destination Itineraries through Artificial Currencies](https://github.com/fish-tue/single-origin-destination-routing)
 
 ## ✨ Contribute
