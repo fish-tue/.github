@@ -5,16 +5,16 @@
 ## 👋 About
 
 Welcome to the **FISH project's** GitHub organization.<br>
-This project aims to develop **fair incentive mechanisms for sustainable human-centered mobility**.
+This project aims to develop **fair incentive mechanisms** using **Artificial Currencies** (AC).
 
 For more details see the [project webpage](https://fish-tue.github.io).
 
 ***
 
 ## ⭐️ Highlights
-- [Fair Artificial Currency Incentives in Repeated Weighted Congestion Games: Equity vs. Equality](https://github.com/fish-tue/AC-weighted-equity-equality)
-- [Fair Incentive Mechanisms for Differentiated Services in a Public Electric Vehicle Charging Station](https://github.com/fish-tue/ev-charging-station)
-- [Urgency-aware Routing in Single Origin-destination Itineraries through Artificial Currencies](https://github.com/fish-tue/single-origin-destination-routing)
+- [AC Incentives in Weighted Congestion Games: Equity vs. Equality](https://github.com/fish-tue/AC-weighted-equity-equality)
+- [AC Mechanisms for Differentiated Services in an EV Charging Station](https://github.com/fish-tue/ev-charging-station)
+- [AC Mechanisms for Single Origin-destination Itineraries](https://github.com/fish-tue/single-origin-destination-routing)
 
 ## ✨ Contribute
 
