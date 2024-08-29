@@ -12,9 +12,9 @@ For more details see the [project webpage](https://fish-tue.github.io).
 ***
 
 ## ⭐️ Highlights
-- [AC Incentives in Weighted Congestion Games: Equity vs. Equality](https://github.com/fish-tue/AC-weighted-equity-equality)
-- [AC Mechanisms for Differentiated Services in an EV Charging Station](https://github.com/fish-tue/ev-charging-station)
-- [AC Mechanisms for Single Origin-destination Itineraries](https://github.com/fish-tue/single-origin-destination-routing)
+- [AC in Weighted Congestion Games: Equity vs. Equality](https://github.com/fish-tue/AC-weighted-equity-equality)
+- [AC for Differentiated Services in an EV Charging Station](https://github.com/fish-tue/ev-charging-station)
+- [AC for Single Origin-destination Itineraries](https://github.com/fish-tue/single-origin-destination-routing)
 
 ## ✨ Contribute
 
